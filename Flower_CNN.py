@@ -73,11 +73,11 @@ def make_train_data ( flower_type , DIR ) :
 X = [ ]
 Z = [ ]
 IMG_SIZE = 150
-FLOWER_DAISY_DIR = '/Users/jeroldyoung/downloads/flowers/daisy'
-FLOWER_SUNFLOWER_DIR = '/Users/jeroldyoung/downloads/flowers/sunflower'
-FLOWER_TULIP_DIR = '/Users/jeroldyoung/downloads/flowers/tulip'
-FLOWER_DANDI_DIR = '/Users/jeroldyoung/downloads/flowers/dandelion'
-FLOWER_ROSE_DIR = '/Users/jeroldyoung/downloads/flowers/rose'
+FLOWER_DAISY_DIR = '/Users/ntwhite/downloads/flowers/daisy'
+FLOWER_SUNFLOWER_DIR = '/Users/ntwhite/downloads/flowers/sunflower'
+FLOWER_TULIP_DIR = '/Users/ntwhite/downloads/flowers/tulip'
+FLOWER_DANDI_DIR = '/Users/ntwhite/downloads/flowers/dandelion'
+FLOWER_ROSE_DIR = '/Users/ntwhite/downloads/flowers/rose'
 
 # Create Data Set
 
